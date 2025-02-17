@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: defan5nfm-nodejs-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/defan5nfm-nodejs-gitops
